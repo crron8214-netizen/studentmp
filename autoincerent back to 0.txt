@@ -1,0 +1,2 @@
+DELETE FROM student; -- remove all rows
+ALTER TABLE student AUTO_INCREMENT = 1;
